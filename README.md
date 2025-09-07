@@ -9,9 +9,9 @@
 - **Investment**: KES 17M for equipment and working capital
 
 ## Files
-- [`financial-model.xlsx`](models/financial-model.xlsx) - Full P&L, balance sheet, cash flow model
-- [`scenario-analysis.xlsx`](models/scenario-analysis.xlsx) - Sensitivity analysis on key variables  
-- [`investment-memo.pdf`](outputs/investment-memo.pdf) - Executive summary and recommendation
+- [`financial-model.xlsx`](financial-model.xlsx) - Full P&L, balance sheet, cash flow model
+- [`scenario-analysis.xlsx`](financial-model.xlsx) - Sensitivity analysis on key variables  
+- [`investment-memo.pdf`](investment-memo.pdf) - Executive summary and recommendation
 
 ## Analysis Highlights
 Built integrated 5-year financial model for manufacturing investment in East African market. Evaluated competitive landscape, customer pipeline, and operational scalability. Modeled multiple scenarios across pricing, volume, and cost assumptions.
